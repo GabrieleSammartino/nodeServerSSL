@@ -1,0 +1,16 @@
+{
+  "name": "serverlets",
+  "version": "1.0.0",
+  "description": "A simply server for certbot certificate for node Js server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
